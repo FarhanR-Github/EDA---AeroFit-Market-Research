@@ -1,0 +1,43 @@
+gitignore
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore Jupyter Notebook specific files
+.ipynb_checkpoints/
+
+# Google Colab specific files (may or may not be present depending on environment)
+gsutil
+*.ipynb_checkpoint
+
+# Ignore common data file types that might be large or generated
+# If your specific data file is aerofit_treadmill_data (2).csv and you want to ignore it,
+# uncomment the line below:
+# aerofit_treadmill_data (2).csv
+# *.csv
+# *.xlsx
+# *.pickle
+# *.pkl
+# *.hdf5
+
+# Ignore virtual environment directories
+# venv/
+# .venv/
+
+# Ignore common IDE and editor directories and files
+.vscode/
+.idea/
+*.swp # vim temporary files
+
+# Ignore operating system temporary files
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# Ignore logs and output directories
+# *.log
+# output/
+# results/
+
+# Ignore any potentially sensitive files or credentials
+# credentials.json
+# config.yaml
