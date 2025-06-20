@@ -1,7 +1,5 @@
 ﻿# EDA---AeroFit-Market-Research
 
-# Portfolio Project: Exploratory Data Analysis (EDA) of Aerofit Treadmill Data
-
 ## 1. Project Overview
 This project performs an Exploratory Data Analysis (EDA) on the Aerofit treadmill dataset. The goal is to understand the dataset's structure, identify patterns and trends, visualize relationships between variables, and extract actionable insights for improving marketing and sales strategies for Aerofit products.
 
