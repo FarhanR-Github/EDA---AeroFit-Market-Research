@@ -31,6 +31,16 @@ The KP781 treadmill is the most popular product overall. Males and partnered ind
 
 **Fitness and Usage Influence Purchase**:
 
+
+
+
+![Screenshot 2025-06-20 171256](https://github.com/user-attachments/assets/b3054bca-3a73-4685-b100-5333f1be647b)
+
+
+
+
+
+
 Customers with higher fitness levels and usage frequency tend to purchase the advanced KP781. The KP481 is often chosen by customers with moderate fitness levels. Consider promoting the KP281 to less frequent users, positioning it as an initiation to a healthier lifestyle.
 
 **Income's Impact on Product Choice**:
