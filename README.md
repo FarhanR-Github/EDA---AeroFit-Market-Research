@@ -16,6 +16,22 @@ The analysis was conducted using Python in a Google Colab notebook. The followin
 - **google.colab**: For mounting Google Drive to access the dataset.
 
 ## 4. Key Findings and Visualizations
+**Product Preference by Gender and Marital Status**:
+
+![Screenshot 2025-06-20 160555](https://github.com/user-attachments/assets/e1198183-9242-4bf3-8243-15bbf6135265)
+
+
+
+
+
+
+
+
+
+
+
+
+
 The EDA revealed several key insights and produced various visualizations to illustrate the data's characteristics. Some of the highlights include:
 - **Data Structure and Summary:** Initial inspection of the data types, missing values, and summary statistics.
 - **Value Counts:** Analysis of the distribution of categorical variables like 'Product', 'Gender', and 'MaritalStatus'.
