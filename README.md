@@ -16,6 +16,7 @@ The analysis was conducted using Python in a Google Colab notebook. The followin
 - **google.colab**: For mounting Google Drive to access the dataset.
 
 ## 4. Key Findings and Visualizations
+The EDA revealed several key insights and produced various visualizations to illustrate the data's characteristics. Some of the highlights include:
 **Product Preference by Gender and Marital Status**:
 
 ![Screenshot 2025-06-20 160555](https://github.com/user-attachments/assets/e1198183-9242-4bf3-8243-15bbf6135265)
@@ -26,25 +27,27 @@ The analysis was conducted using Python in a Google Colab notebook. The followin
 
 
 
+The KP781 treadmill is the most popular product overall. Males and partnered individuals tend to purchase the KP781 more frequently. KP281 is preferred by females and is a more affordable entry-level option.
 
+**Fitness and Usage Influence Purchase**:
 
+Customers with higher fitness levels and usage frequency tend to purchase the advanced KP781. The KP481 is often chosen by customers with moderate fitness levels. Consider promoting the KP281 to less frequent users, positioning it as an initiation to a healthier lifestyle.
 
+**Income's Impact on Product Choice**:
 
+High-income earners favor the KP781, validating its premium positioning. Customers with lower incomes are more likely to purchase the KP281 or KP481. Offer targeted promotions or financing options for the more expensive models to customers with moderate incomes.
 
+**Miles and Fitness Correlation**:
 
-The EDA revealed several key insights and produced various visualizations to illustrate the data's characteristics. Some of the highlights include:
-- **Data Structure and Summary:** Initial inspection of the data types, missing values, and summary statistics.
-- **Value Counts:** Analysis of the distribution of categorical variables like 'Product', 'Gender', and 'MaritalStatus'.
-- **Distribution Plots:** Visualizations of the distribution of numerical features like 'Age', 'Education', 'Usage', 'Fitness', 'Income', and 'Miles' using histograms with KDE.
-- **Count Plots:** Graphical representation of the frequency of occurrences within binned numerical features ('Age', 'Education', 'Usage', 'Income', 'Miles') and categorical features ('Product', 'Gender', 'MaritalStatus').
-- **Box Plots:** Visualization of the spread and potential outliers in numerical features.
-- **Bivariate Analysis:** Exploration of the relationship between 'Product' and other features like 'Gender', 'MaritalStatus', and 'Age' through count plots.
-- **Multivariate Analysis:** A pair plot to visualize relationships between multiple numerical variables.
-- **Correlation Analysis:** A heatmap showing the correlation matrix of the numerical features, highlighting strong, moderate, and weak correlations.
-- **Outlier Detection:** Identification of potential outliers in numerical features using the IQR method.
-- **Conditional Probabilities:** Calculation of various conditional probabilities to understand the likelihood of certain events (e.g., percentage of female customers purchasing a specific product).
+There's a strong correlation between miles run and fitness level. Customers aiming for longer distances prefer the KP781, highlighting its ability to support demanding workouts. Consider emphasizing this feature in marketing materials for the KP781.
 
-The report section in the notebook provides a detailed summary of the actionable insights and recommendations based on the findings.
+**Age Demographics**:
+
+The majority of customers are between 20 and 30 years old. Consider tailoring marketing campaigns to this age group, leveraging popular social media platforms. Explore ways to attract older demographics by highlighting the benefits of treadmills for maintaining health and fitness.
+
+**Education Level**:
+
+There's a positive correlation between education level and product purchase. Tailor marketing messaging to resonate with customers who value quality and innovation (KP781).
 
 ## 5. How to Run the Code
 To run this analysis, you will need access to the dataset and a Google Colab environment.
